@@ -1,3 +1,4 @@
 Name: Aditya Gupte
-skills: C++, python, JAVA, C, HTML, CSS, Javascript, Git, Github, MATLAB, Machine Learning, Neural Networks
-email: adityaaditya@iitgn.ac.in
+Skills: C++, Python, JAVA, C, HTML, CSS, Javascript, Machine Learning, Neural Networks, Git, Github, MATLAB
+Email: adityaaditya@iitgn.ac.in
+
